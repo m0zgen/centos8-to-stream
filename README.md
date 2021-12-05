@@ -12,3 +12,12 @@ You can run script with two parameters:
 ```
 ./upgrade.sh -u -a
 ```
+
+## CentOS 8 EOL
+
+CentOS Linux 8 will reach End Of Life (EOL) on December 31st, 2021:
+* https://www.centos.org/centos-linux-eol/
+
+If short from official article:
+`In line with the EOL of previous releases, we will NOT be automatically migrating anyone to the next version (which is CentOS Stream 8 in this case).`
+
