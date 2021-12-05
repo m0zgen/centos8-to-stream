@@ -1,4 +1,4 @@
-# CentOS 8 to Stream script
+# CentOS 8 to Stream script Converter
 
 This is a simple script for converting CentOS 8 to CentOS 8 Stream.
 
